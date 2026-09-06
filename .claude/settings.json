@@ -11,6 +11,12 @@
         "source": "github",
         "repo": "Hainrixz/claude-ads"
       }
+    },
+    "marketingskills": {
+      "source": {
+        "source": "github",
+        "repo": "coreyhaines31/marketingskills"
+      }
     }
   },
   "enabledPlugins": {
