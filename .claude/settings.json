@@ -21,6 +21,7 @@
   },
   "enabledPlugins": {
     "claude-seo-ai@claude-seo-ai": true,
-    "claude-ads@tododeia-claude-ads": true
+    "claude-ads@tododeia-claude-ads": true,
+    "marketing-skills@marketingskills": true
   }
 }
