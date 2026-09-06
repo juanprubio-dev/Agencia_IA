@@ -5,9 +5,16 @@
         "source": "github",
         "repo": "Hainrixz/claude-seo-ai"
       }
+    },
+    "tododeia-claude-ads": {
+      "source": {
+        "source": "github",
+        "repo": "Hainrixz/claude-ads"
+      }
     }
   },
   "enabledPlugins": {
-    "claude-seo-ai@claude-seo-ai": true
+    "claude-seo-ai@claude-seo-ai": true,
+    "claude-ads@tododeia-claude-ads": true
   }
 }
